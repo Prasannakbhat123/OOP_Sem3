@@ -80,6 +80,3 @@ To stop the Docker container and remove all related resources:
 
    ```bash
    docker system prune -a
-
-
-
