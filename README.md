@@ -37,12 +37,12 @@ Ensure Docker is installed on your machine. If not, download and install Docker 
 
 3. **Build and Run the Docker container:**
 
-```bash
+   ```bash
    docker-compose up --build
 
 4. **Access the Application:**
 
-```bash
+   ```bash
    http://localhost:3000
 
 or the port defined in your Docker configuration.
@@ -51,18 +51,19 @@ or the port defined in your Docker configuration.
 
 To deploy the application, follow these steps:
 
-      ```bash
-      docker-compose up -d
+1. **1.Ensure the Docker container is running:**
 
+   ```bash
+   docker-compose up -d
 
-**2. Push the changes to your repository:**
+2. **Push the changes to your repository:**
 
-      ```bash
-      git add .
-      git commit -m "Deploying to production"
-      git push origin main
+   ```bash
+   git add .
+   git commit -m "Deploying to production"
+   git push origin main
 
-**3. Monitor the deployment:**
+3. **Monitor the deployment:**
 
 Ensure your Docker container is running on the production server.
 
@@ -70,7 +71,15 @@ Ensure your Docker container is running on the production server.
 
 To stop the Docker container and remove all related resources:
 
-**1. Stop the Docker container:**
+1. **Stop the Docker container:**
 
-docker-compose down
+   ```bash
+   docker-compose down
+
+1. **2. Remove all Docker resources:**
+
+   ```bash
+   docker system prune -a
+
+
 
