@@ -6,11 +6,13 @@ Welcome to the **Manipal Hackathon 2024**!
 
 The hackathon will begin at **8:00 AM on 16th October 2024** and will conclude at **5:00 PM on 18th October 2024**. It will be hosted at **Manipal Institute of Technology, Manipal**. This repository serves as the central hub for all the projects developed during the event.
 
+
 ### Important Guidelines:
 
 - **Disclosure of your college or university** will lead to **immediate disqualification**.
 - **Participants cannot leave the venue** before the hackathon is officially completed.
 - **Teams must push their code updates at least once every hour** to this repository to ensure continuous progress and transparency.
+
 
 ## 🚀 Requirements
 
@@ -20,6 +22,7 @@ Before starting, ensure you have the following tools installed (based on your pr
 - **Docker** (optional, for containerized setup)
 - **Node.js**, **npm**, or any specific project dependencies based on your stack
 - Alternatively, any **local server** setup like **XAMPP, WAMP, etc.**
+
 
 ## ⚙️ Local Installation
 
@@ -47,6 +50,7 @@ Ensure Docker is installed on your machine. If not, download and install Docker 
 
 or the port defined in your Docker configuration.
 
+
 ## 📦 Deployment Instructions for Docker
 
 To deploy the application, follow these steps:
@@ -66,6 +70,7 @@ To deploy the application, follow these steps:
 3. **Monitor the deployment:**
 
 Ensure your Docker container is running on the production server.
+
 
 ## ❌ Uninstallation
 
