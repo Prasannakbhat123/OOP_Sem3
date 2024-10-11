@@ -1,6 +1,9 @@
 # Manipal Hackathon 2024 - Official Hackathon Repository
 
-## 📜 Introduction
+**Team Name:** [Your Team Name]  
+**Problem Statement:** [Your Problem Statement]
+
+## 📜 Introduction  
 
 Welcome to **Manipal Hackathon 2024**!
 
@@ -11,6 +14,7 @@ The event runs from **8:00 AM on 16th October** to **5:00 PM on 18th October** a
 - **Disclosure of your college/university** leads to **disqualification**.
 - **Participants cannot leave** before the event ends.
 - **Teams must push code updates every hour** for transparency.
+
 
 
 ## 🚀 Requirements
