@@ -37,12 +37,12 @@ Ensure Docker is installed on your machine. If not, download and install Docker 
 
 3. **Build and Run the Docker container:**
 
-   ```bash
+```bash
    docker-compose up --build
 
 4. **Access the Application:**
 
-   ```bash
+```bash
    http://localhost:3000
 
 or the port defined in your Docker configuration.
