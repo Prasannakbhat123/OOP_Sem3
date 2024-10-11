@@ -2,16 +2,15 @@
 
 ## 📜 Introduction
 
-Welcome to the **Manipal Hackathon 2024**!
+Welcome to **Manipal Hackathon 2024**!
 
-The hackathon will begin at **8:00 AM on 16th October 2024** and will conclude at **5:00 PM on 18th October 2024**. It will be hosted at **Manipal Institute of Technology, Manipal**. This repository serves as the central hub for all the projects developed during the event.
-
+The event runs from **8:00 AM on 16th October** to **5:00 PM on 18th October** at **Manipal Institute of Technology**. This repository serves as the central hub for projects.
 
 ### Important Guidelines:
 
-- **Disclosure of your college or university** will lead to **immediate disqualification**.
-- **Participants cannot leave the venue** before the hackathon is officially completed.
-- **Teams must push their code updates at least once every hour** to this repository to ensure continuous progress and transparency.
+- **Disclosure of your college/university** leads to **disqualification**.
+- **Participants cannot leave** before the event ends.
+- **Teams must push code updates every hour** for transparency.
 
 
 ## 🚀 Requirements
